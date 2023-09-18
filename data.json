@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Red",
+    "color": "Red",
+    "price": 10
+  },
+  {
+    "id": 2,
+    "name": "Blue",
+    "color": "Blue",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "name": "Green",
+    "color": "Green",
+    "price": 12
+  },
+  {
+    "id": 4,
+    "name": "Yellow",
+    "color": "Yellow",
+    "price": 8
+  },
+  {
+    "id": 5,
+    "name": "Purple",
+    "color": "Purple",
+    "price": 20
+  }
+]
